@@ -62,7 +62,7 @@ margin: -15px;
     padding: 10px 10px;
     transition: .4s;
     margin:60px;
-    margin-top: 140px;
+    margin-top: 350px;
     border-radius: 12px;
    
     
@@ -208,25 +208,6 @@ margin-top: 50px;
 }
 
 
-div.img1 {
-margin-top: 200px;
-
- 
-  
-}
-
-div.img2 {
-  position: relative;
-  margin-left: 50px;
-  margin-top:  50px;
-  
-}
-
-div.img3{
-
-
-
-}
 
 
 
@@ -253,7 +234,10 @@ padding: 50px;
 margin-top: 20px;
 }
 
-   
+   .img1{
+margin-top: 350px;
+
+   }
       
     
   
@@ -261,13 +245,16 @@ margin-top: 20px;
    
     
    
-
+    <a href="#" class="button1">pilates</a>
+    <a href="#" class="button2">psicomotricidade</a>
+    <a href="#" class="button3">sobre mim</a>
+    <a href="#" class="button4">whatsapp</a>
 
 
 
 <div class="img1">
 
-<img src="logo.3.png" alt="logo marca" width="350px">
+<img src="logo.3.png" alt="logo marca" height="100px">
 </div>
 
 <div class=" p1">
@@ -287,10 +274,7 @@ margin-top: 20px;
   </p>
 </div>
 
-    <a href="#" class="button1">pilates</a>
-    <a href="#" class="button2">psicomotricidade</a>
-    <a href="#" class="button3">sobre mim</a>
-    <a href="#" class="button4">whatsapp</a>
+
 
 
 
@@ -307,7 +291,7 @@ margin-top: 20px;
 
 
 <div class="pilates">
-  <img src="pilates.jpeg" alt="logo marca" width="100%">
+  <img src="pilates.jpeg" width="100%">
 <h1>
   Metodo Pilates.
 </h1>
@@ -323,7 +307,7 @@ margin-top: 20px;
 
 
 <div class="hidro">
-  <img src="hidro.jpeg" alt="logo marca" width="100%">
+  <img src="hidro.jpeg"  width="100%">
 <h1>
  Pilates Solo.
 </h1>
