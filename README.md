@@ -1,4 +1,3 @@
-# PERSONAL
 <html lang="pt">
 <head>
   <meta charset="UTF-8">
@@ -229,19 +228,6 @@ div.img3{
 
 }
 
-.btn{
-  padding: 5px;
-  width: 150px;
-  color: #fff;
-  background: #333;
-  border: 1px solid #555 ;
-  border-radius: 5px;
-  text-align: center;
-  margin-top: 50px;
-  
-}
-
-
 
 
 
@@ -257,13 +243,13 @@ div.p1 {
 div.pilates{
 
   background-color: #c90d6b;
-  padding: 110px;
+  padding: 50px;
 }
 
 div.hidro{
 
 background-color: #c90d6b;
-padding: 110px;
+padding: 50px;
 margin-top: 20px;
 }
 
@@ -301,7 +287,7 @@ margin-top: 20px;
   </p>
 </div>
 
- <a href="#" class="button1">pilates</a>
+    <a href="#" class="button1">pilates</a>
     <a href="#" class="button2">psicomotricidade</a>
     <a href="#" class="button3">sobre mim</a>
     <a href="#" class="button4">whatsapp</a>
